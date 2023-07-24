@@ -1,0 +1,33 @@
+ [
+    {
+        "id":1,
+        "collegeName": "ABC University",
+        "collegeImage": "https://i.ibb.co/VmrRR9W/Banner1.jpg",
+        "admissionDates": "September 1 - November 30",
+        "events": ["Orientation Day, ", "Annual Sports Meet, ", " Science Symposium"],
+        "researchHistory": "Established in 1985, ABC University has a long-standing research tradition...",
+        "sports": ["Soccer, ", "Basketball, ", "Volleyball, ", "Track & Field"]
+      },
+      {
+        "id":2,
+        "collegeName": "XYZ College",
+        "collegeImage": "https://i.ibb.co/DGwwvhY/Banner2.jpg",
+        "admissionDates": "December 1 - February 28",
+        "events": ["Freshers, ' Party, ", "Cultural Fest, ", "Tech Expo"],
+        "researchHistory": "XYZ College, since its inception in 1990, has actively promoted research...",
+        "sports": ["Cricket, ", "Badminton, ", "Table Tennis, ", "Swimming"]
+      },
+      {
+        "id":3,
+        "collegeName": "EFG Institute",
+        "collegeImage": "https://i.ibb.co/PrTzW7Q/Banner3.jpg",
+        "admissionDates": "March 1 - May 31",
+        "events": ["Welcome Week, ", "Literary Festival, ", "Innovation Fair"],
+        "researchHistory": "EFG Institute, founded in 1970, has made significant contributions to research...",
+        "sports": ["Rugby, ", "Tennis, ", "Chess, ", "Gymnastics"]
+      }
+      
+ ]
+    
+  
+  
